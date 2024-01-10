@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $television = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "VIDEO ESCANDALO",
+"autor" => "BAJITO",
+"resumen" => "SE VIRALIZA VIDEO DE BAJITO CON CASTILLOOOOOO!",
 ];
 ?>
