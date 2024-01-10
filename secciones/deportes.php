@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $deportes = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "FUTBOL",
+"autor" => "EL QUE MAS SABE",
+"resumen" => "OLIVER SONNE FICHADO POR ALIANZA LIMA Y GANO LA CHAMPION JUNTO A MARADONA",
 ];
 ?>
